@@ -27,15 +27,10 @@ jobs:
           restore-keys: ${{ runner.os }}-node-
       - name: Install dependencies
         run: npm install
-      - name: Generate token 
-        uses: tibdex/github-app-token@v1
-        id: generate-token
-        with:
-          app_id: ${{ secrets.BOT_APP_ID }}
-          private_key: ${{ secrets.BOT_PRIVATE_KEY }}
       - name: Run Danger JS
         run: npx danger ci
         env:
           DANGER_DISABLE_TRANSPILATION: "true"
-          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}
+          DANGER_GITHUB_APP_ID: ${{ secrets.BOT_APP_ID }}
+          DANGER_GITHUB_APP_PRIVATE_SIGNING_KEY: ${{ secrets.BOT_PRIVATE_KEY }}
+          DANGER_GITHUB_APP_INSTALL_ID: ${{ secrets.BOT_INSTALL_ID }}
