@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+    <link rel="icon" href="../../images/icon.png" />
+    <script src="../set-lang.js" defer></script>
+    <link rel="stylesheet" href="style.css" />
+    <link href="../../libraries/Sora.css" rel="stylesheet" />
+    <script src="../../libraries/vue.js" defer></script>
+    <script src="licenses.js" defer></script>
+  </head>
+  <body class="licenses">
+    <div class="navbar">
+      <a href="./index.html"><img src="../../images/icon.svg" class="logo" alt="Logo" /></a>
+      <h1>{{ msg("licenses") }}</h1>
+    </div>
+    <div class="main">
+      <div class="licenses-block">
+        <div class="license-container">
+          <div class="licenses-body" v-for="library of libraries">
+            <h2>{{ msg("licensesForLibrary", library.name) }}</h2>
+            <pre>{{ library.license }}</pre>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

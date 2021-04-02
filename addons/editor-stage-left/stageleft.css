@@ -1,0 +1,36 @@
+/* sa-autoupdate-theme-ignore */
+/* Userscript handles whether this style should be enabled until dynamicEnable is a thing */
+/* If we didn't add autoupdate-ignore, loading the editor with the addon disabled, then
+   enabling it, would inject the CSS but of course not the JS */
+
+[class*="stage-header_stage-button-icon"] {
+  transform: scaleX(-1);
+}
+[class*="target-pane_target-pane"] {
+  -webkit-flex-direction: row-reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+[dir="ltr"] [class*="target-pane_stage-selector-wrapper"] {
+  margin-left: 0;
+  margin-right: calc(0.5rem / 2);
+}
+[class*="sprite-selector_sprite-selector"] {
+  margin-left: calc(0.5rem / 2);
+  margin-right: 0;
+}
+[class*="gui_flex-wrapper"] {
+  -webkit-flex-direction: row-reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+  overflow-x: hidden;
+}
+
+[dir="ltr"] [class*="backpack_backpack-header"] {
+  border-top-right-radius: 0rem;
+  border-top-left-radius: 0.5rem;
+}
+
+.Popover {
+  z-index: 40;
+}

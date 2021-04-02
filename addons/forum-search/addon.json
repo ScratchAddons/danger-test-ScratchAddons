@@ -1,0 +1,28 @@
+{
+  "name": "Forum search",
+  "description": "Adds a post search to the forum homepage. Uses ScratchDB for information.",
+  "credits": [
+    {
+      "name": "DatOneLefty"
+    },
+    {
+      "name": "Hans5958"
+    }
+  ],
+  "userscripts": [
+    {
+      "url": "userscript.js",
+      "matches": ["https://scratch.mit.edu/discuss/*"]
+    }
+  ],
+  "userstyles": [
+    {
+      "url": "userscript.css",
+      "matches": ["https://scratch.mit.edu/discuss/*"]
+    }
+  ],
+  "tags": ["forums", "community"],
+  "enabledByDefault": false,
+  "libraries": ["scratchblocks"],
+  "l10n": true
+}

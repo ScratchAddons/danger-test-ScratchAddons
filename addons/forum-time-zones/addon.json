@@ -1,0 +1,15 @@
+{
+  "name": "Forums time zone",
+  "description": "Converts the post times to the client's time zone.",
+  "userscripts": [
+    {
+      "url": "userscript.js",
+      "matches": ["https://scratch.mit.edu/discuss/topic/*"],
+      "runAtComplete": false
+    }
+  ],
+  "tags": ["forums", "community", "beta"],
+  "enabledByDefault": false,
+  "libraries": ["moment"],
+  "l10n": true
+}

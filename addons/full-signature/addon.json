@@ -1,0 +1,102 @@
+{
+  "name": "Show full areas",
+  "description": "Makes some elements with limited height resizable or scrollable, such as user signatures on the forums and What I've been doing on profiles.",
+  "credits": [
+    {
+      "name": "GrahamSH"
+    },
+    {
+      "name": "NitroCipher/ZenithRogue"
+    },
+    {
+      "name": "TheColaber",
+      "link": "https://scratch.mit.edu/users/TheColaber"
+    },
+    {
+      "name": "RedGuy7",
+      "link": "https://paul-s-reid.com/web-dev"
+    }
+  ],
+  "settings": [
+    {
+      "name": "Show scroll for forum signatures",
+      "id": "signature",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "name": "Show scroll for forum Scratchblocks",
+      "id": "blocks",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "name": "Show scroll for \"What I've been doing\"",
+      "id": "whatworkingon",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "name": "Show scroll for \"What's Happening?\"",
+      "id": "whathappen",
+      "type": "boolean",
+      "default": true
+    }
+  ],
+  "userscripts": [
+    {
+      "url": "working.js",
+      "matches": ["https://scratch.mit.edu/users/*"],
+      "settingMatch": {
+        "id": "whatworkingon",
+        "value": true
+      }
+    },
+    {
+      "url": "happen.js",
+      "matches": ["https://scratch.mit.edu/"],
+      "runAtComplete": false,
+      "settingMatch": {
+        "id": "whathappen",
+        "value": true
+      }
+    }
+  ],
+  "userstyles": [
+    {
+      "url": "signature.css",
+      "matches": ["https://scratch.mit.edu/discuss/topic/*", "https://scratch.mit.edu/discuss/settings/*"],
+      "settingMatch": {
+        "id": "signature",
+        "value": true
+      }
+    },
+    {
+      "url": "blocks.css",
+      "matches": ["https://scratch.mit.edu/discuss/topic/*"],
+      "settingMatch": {
+        "id": "blocks",
+        "value": true
+      }
+    },
+    {
+      "url": "working.css",
+      "matches": ["https://scratch.mit.edu/users/*"],
+      "settingMatch": {
+        "id": "whatworkingon",
+        "value": true
+      }
+    },
+    {
+      "url": "happen.css",
+      "matches": ["https://scratch.mit.edu/"],
+      "settingMatch": {
+        "id": "whathappen",
+        "value": true
+      }
+    }
+  ],
+  "tags": ["community", "forums", "recommended"],
+  "enabledByDefault": true,
+  "l10n": true
+}

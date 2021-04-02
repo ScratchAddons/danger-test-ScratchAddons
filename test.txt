@@ -1,0 +1,141 @@
+296fe4ac73c4bdded456ec8abaa5c3a16530ca09 Bump to v1.4.0 (#882)
+1e3fbe81c978072113e05963b48f8cba07b08a73 Ctrl+click addon name to show IDs instead of names (#874)
+779ef685467ea1bdcd39e3f64554ceb736e74e5b Merge pull request #876 from WorldLanguages/fix-837
+2ffe67ab72138eda60f9d29ba7c1c7ab09c10787 Merge pull request #881 from ScratchAddons/tx-20201128143057
+2c9b9237b24ae28b2353232d293d2c2d235dd7da New strings from Transifex
+52379b54cb78f993c4019a6bf26ad9734d5ac551 Merge pull request #880 from qucchia/master
+e0b65155876f975a405d9fb6202955785d86f10e Open licenses in new tab
+4442d28689df5a8553d3c3aeb3325882181a2ceb Merge pull request #878 from ScratchAddons/tx-20201128000640
+71e04aa6bc9151363854c4c3dc78b536e158f91d Remove Codacy badge
+c32d1f231fb51d4fc7cdced4a1949991f706137b Delete codacy-analysis.yml
+0b0ab817180370d9eb4a9aacb01fcbd7be230214 New strings from Transifex
+72e8ee267cbc8956b2f006b17e7f797e7f87bb91 Add Codacy badge (#877)
+8bd7397ba743ed76fc394e560f920093698ea4a2 Create codacy-analysis.yml
+1209a39c6d0af5793051a2dba27742cca503e428 Delete codacy-analysis.yml
+468f8392b5951444c62e147a35ed7eb74abfea10 *Dummy Commit*
+20d7634c18b6f178db79a0f9475d093578efe880 Create codacy-analysis.yml (#875)
+d8cc041b5e7b33d14bc3198a2af9effc2634f72a Remove Dark WWW from dark-www
+d04272ca7cdb772ae6918bd438b1962aa34b520a Move Codeowners (ScratchAddons#)
+7eaec588da45d9bcdf942963f8993623596d2ccb Fix fallback for manifest l10n (#871)
+2560bb3685bdb7332555f436f43cb2fbb6eba8d7 Fix check for missing props (#870)
+6a0482b686ea56625cb8bd6a40c709f9c290671c export ignore CODEOWNERS file (#868)
+19fd041680e7e2d4c5db444a4ccc9d31e9de06ac More l10n (#867)
+7defffc95a87bd42c5c338236fa60f91446f72a9 Merge pull request #865 from ScratchAddons/tx-20201127000706
+88796031f00c51c314d7e09231693f2a2a0ae42c New strings from Transifex
+ca73b3f30241032c99d6bfda94df722b51980310 Add source URL to theme CSS (#849)
+63092e2f515695828a5bf71c700a73b51e02e41c Merge pull request #863 from ScratchAddons/tx-20201126000618
+a9679b06da083970a520a3442f1e05fa1a23a574 New strings from Transifex
+1b07bf84bd6bfe9c81ab8a4b401d52b94cc94724 Smooth Project Borders on 2 to 3.0 pages (#851)
+fa539ba6240c650d4b7394dd3af1fc09bb60f7ee Fix project-notes-tabs addon for remixes (#857)
+6cf029aafa5ca690f0455e205e4720bb900d8bee Exact count once and for all again (#861)
+a7cd8b339b3fbb01bad5be5c6dc5bdb6765f9e92 Update clones.json
+ed98b8d745c7f5eb038a2b69bdb2f9d48c8db52e Merge pull request #858 from ScratchAddons/tx-20201125134433
+10ab837968a6e5ddcade52601fbdd28efb44960f New strings from Transifex
+caa80e19707ee9e4d517058f398614b997a79a13 Update exact-count.json (#854)
+d4943881fea49fd2e4ae0dc8a65be03ae5f2fa29 Fix editor-devtools again
+69029bbe1ca44e5b12cde3911428b26508a9557e Revert tests
+44ab62712b1924d5062b61661745616329f47f03 MORE TESTS
+48d1424611a229b1244afbe5383630804f6d8fff TO REVERT: TESTING
+d210f6224929f93122b02d60aa84656f8e22096d Merge pull request #856 from ScratchAddons/fix-plural-devtools
+c50bb494bc77d298678ced28fd0c6de02ee3322e Fix editor-devtools messages
+2fa980434519e5bf8489a380c87032338cc69780 Merge pull request #855 from ScratchAddons/tx-20201125030259
+a5880ec2eb177aae7d19a79bd9408c18e08ccde8 New strings from Transifex
+bf32eefb86e84e67b32fcc54750a79bb3091cf3b Responsive settings (#828)
+7dc00e8ec2e9ebe2804c17fcea4534d7c28c8eee Auto-assign for PRs (#843)
+4973b6ecc5b7234e041e9766d45e1677cf1497a2 clean up image uploader code (#829)
+dbf89bf1bcda1753e789d38ec49ffac6debf13db add my-ocular addon (#848)
+4d498338716fd9c63338d03b355ebe1fbc12e595 Localization fixes (#842)
+739f0e54722cceb86145e7f7c7a5b364980be8a9 Update README.md (#841)
+cfaf49e75c7c68a5e8bf60d5dc6ec6b27c1ae571 Merge v1.3.3 into v1.4.0 on master (#836)
+7cc92b312bf8a3dfcad5a935e893c431428b62c4 Merge pull request #839 from ScratchAddons/Hans5958-patch-1
+79cf7df7ca4bfbd5b0aa5ef69542e9b63f75d898 Link advisories page instead of updating it every vuln
+552455bf2534b09ecd472515ca1e678a6e3fdb43 Very important bugfix (#813)
+2a495285073e7f2ec4d6d43ba99944560de2cf08 Add addon Quote Code Beautifier (#694)
+ad639b742d621d336d2e23b7e5f670245a0adc5e Minor Improvements (#832)
+8c2f8d5ab928f0b321c306b9f7bfe04d266ed536 Version bump to v1.3.3
+4bec285b5321e29d10d7ddb1a0bea94333b8c9a6 style: format code
+f6a80356e4fa2fd1bd5ccae376f6eddbbc3b6119 Merge branch 'v1.3.x' of https://github.com/ScratchAddons/ScratchAddons into v1.3.x
+1a3748eeaf9a39259e959d5f32c4306d75ea84c0 Refactor animated thumb
+998781bb8125a313db3f242b7ba0e29a305153b9 Don't use CDN
+7868b54f15b7262ae50b1cafdc4e42966abbb098 style: format code
+a3773a21b7ca58fb36e28a3a376e684c8a7b0402 Linkify hashes properly
+2ee5dacab199724a5b5a5b674197e2ab4829cf51 Bump to v1.3.2
+66ba38615177a96012ff97a71c88465ea9a50801 More Links: Fix XSS via URL with tags inside
+98b57b092a3b209a8e5be6b251601f5ca9140db8 style: format code
+bf3def2205ac38f8001743d809a50c543af8357d Merge pull request #827 from apple502j/sec-20201123
+7027d1c27ff14e525ae39df53b48bfd2bba74af6 Add "Vulnerabilities Disclosed" section
+f034996ded04756b9cb1caf68a68dc0657d09a50 Merge pull request #826 from ScratchAddons/tx-20201123145345
+b9a52d6532c8514254c7cc1d8e18710dbedc41ff SECURITY: Fix DOM XSS in More Links addon
+6b9f4eeae3e2aed281cc285defb369aafaa160ff New strings from Transifex
+7afa25ee920701fc73a8e167bb752a15adb5d6d2 Merge pull request #820 from ScratchAddons/Hans5958-patch-1
+d59b7af95d18af87970fe34c0f72a4db7836c6a6 Merge pull request #823 from apple502j/fix-plural
+5846849343f7a1307b9ed1d670142cc58917d95b Fix plural
+92d74c8414fff78ce21a385aa6c322cca4e87af8 Merge pull request #821 from ScratchAddons/tx-20201123041516
+1529bcd30922895a56fdc0e81f61f1280d3e2c40 New strings from Transifex
+18716f22669d808a32e66cf698a0e92461f8bc7f Rewrite l10n system (#812)
+a76e936660e37e76ae0a5cfd8e74fd6c24c60131 Merge pull request #819 from ScratchAddons/tx-20201123000641
+95c733d910d7d5d5e9dd24142a89e9fd0c2f9797 Use SAB as the placeholder author
+3dc7b1b6c22604c1d1cfb88e39393a812998df01 New strings from Transifex
+f88b3fbcdc66640f67b7403bbe9c46c9611e2e89 New settings "key" (#793)
+3973544fcb6d4d96946b92b17a7a3edcc0127bf2 Studio activity url on Scratch Notifier (#806)
+c9509bbe3ef1142f83c54afb4ee04c8659380a9f Setting Warnings/Notice Icons (#791)
+c160af5f872b745a42f6138ffa680ed0fef71990 Confirm actions addon (#797)
+2322c665ce26954c2fc628619c2280680df1544a Merge pull request #810 from ScratchAddons/tx-20201122001131
+7c1a9c4eb2528ed314094a251f4ed0dd88f99097 New strings from Transifex
+14b24a1834df40dcbf92449e78798aff40c8c5e8 Feature unshared projects (#757)
+a94b44da984733960664020913aa1a41bb6540c6 Project notes tabs (#794)
+31b1eb41f6ab87954140e08c49886a808e18a056 add radius to backpack (#808)
+b70fa2f309c1ae8f561ede768377535e0e9745b0 Merge pull request #805 from ScratchAddons/tx-20201121185929
+89f20cc3ff7006ca72f820c91538357b6d9e41b6 New strings from Transifex
+3736a6f07bfee953799baf981584b55199f3e85c Ignore auto-generated files (#804)
+5b201d5b3944ea7e8a6fb377ab3876a907ed0cba style: format code
+46c0fe149ac65713e9cab739f37029b4899f7cd4 New strings from Transifex (#803)
+0efc8a2064b4ea3051485b09058ea8c96a641124 Add search profile username validator (#800)
+2c1209d7ed44b84ffa0f2dcfcf1282a4f6f7caa3 style: format code
+28a18f9441139691cfd1438b5213c9a2b26d7aca Merge pull request #802 from ScratchAddons/tx-20201121182642
+d3f3495ece31e8584682076805a2d0b3bbde8fb1 New strings from Transifex
+0c1142929d94407a0ae2b6a5935e654947ec7531 New addon: Context menu block switching (#768)
+5a088fddf7dbb0c8b26fdff0c60d127e3ef5ea12 Transifex integration (#798)
+cfb790d68dbf27968f9b1bf3c10e06aa3b5c24f1 Faster, Better Forum User Count (#758)
+3980fe5092b351df6b8f10bb7b2c9cec2112b6b5 More links: Add waitForElement for project pages (#433)
+931e9877bce647838a72b5b4fc2c806c3b646b26 less than or equal to (#801)
+5892f5402d40c9ab481caa5696c7b926c7a2b291 Add support for %addon-self-dir% in themes CSS (#795)
+25f3d3863739056b2eb3ee4b7b5a67fddb64a3ad Add more pages to scratchr2 (#775)
+d23225848017cd016e879fdf04cf341dcc65ecf9 Add custom style for checkboxes (#787)
+2a147963e9ed618a1a5e09885fcc4c6037628940 Fix white corners in predicate block when middle clicking on dev tools (#781)
+f94a2fe2fc2439125bdb3120c114a2883ea95d5d Fix Load More Bug (#756)
+7d27f0ddf84cffb734f29ee247a925e500834aa2 Make Thumbnail Setter a Scratch Editor Addon (#752)
+5347539de6c6a444ecfc1f2c8cfd43a27d15532b New addon: fix broken SVG uploads (#748)
+7eb0cd40571cf48e51db84dc40ec4c91f53d8b3b Fix performance when dragging blocks in the editor (#747)
+a76618cea27aa0d3d3f990f0b607cda35e3f18da Editor Messages (#607)
+cef6a36223d2b25c5dd39ff30248993b07016fbd Also trigger API docs update on jsdoc-ify
+68869789bc20cbc3e7c087cd0006dfb62d67531a Localize everything (#753)
+04e2ce89b5d9d3d1f11087071322c4a29ac2e09e Bump schema version to 1.4
+13294f3808f3885127adcd8992b30577447ea325 Merge pull request #699 from mxmou/add-dark
+a0dd5bf266c2ec801e3afbc327deb45a8f2edd35 Fix bug
+661a4b7a8ee1ad0ab2f97f0b767a7745d1239a8d Add API docs update workflow
+2cd9e7dab3f9e3f50395b2c69c72ad3369c9fbf5 Merge pull request #733 from mxmou/fix-exactcount-posts
+f5a2c10486578dc2aad2eaf59aada6928d97f383 Shows Actual date for "last-edit-tooltip" (#734)
+744853ad017dda5e4ecc161b9ec7b573e262587d Add sprite & script count addon (#732)
+23c17f52a2039ba4b68afd699568a1ded3285b04 Curator link: Add addon (#725)
+a144268284384d1a3a4873c2d6e37ede100ecd6b Update forum.svg (#710)
+7ea68f90bd9c1a29a9794823e5ec983245d5b555 Live featured project: Add option to disable alt player, fix style, etc (#707)
+bdf973d19765cd592220eae86fddffb80faeb051 Remove unnecessary word "theme" (#724)
+ca311871c50126f4668b233e961d034e668bdc13 Fix fixed footer showing behind projects (#735)
+091a45879873c5f45accd133d513e861125c8903 Add favicon on the web pages (#723)
+602a8cac9a8c18b2d91027c6718e341001410e7d Another Load more fix (#729)
+7eee92e7a1c2e2498585bca893151fa89a87fd25 Show full areas: Fix capitalization on "Load more" (#722)
+2a9f9660b8400810f3e398506b64e8d29873580f style: format code
+2bae3ee307d85516861129bf728b04904e2d82ef Fix forum exactcount showing just a number
+3d4930b35bb141b8abbca90a607103663281a670 Work around #701
+a1b187a32f40f12437f8a3a773a6b746cf9a0c93 progress-bar bug fixes (#711)
+a9c2c8f470cd7eede7902abe305b3f351108d2bc Fix fixed footer on annual report (#706)
+d45bd936614b45e70615b80964388dea6de70606 Make theme userstyles ordered (#704)
+60745d87c64d69fde04da72ab990b5f2f7830950 style: format code
+b4a3bf174ce20c13ce21df6bfd77b2bc7ef6d5c7 Re-enable website dark mode
+9638e9f3c609094cc729995dcb3377ab64f32354 Merge remote-tracking branch 'upstream/master' into add-dark
+e429569977e2f438408e534a83b6effa79bd5687 Add Experimental Dark
+46bf715a88a20eb027cfda53f3a9f772cbec86e9 Also trigger changelog update after editing the config
+23e84a9d7a7a693f222b6c12a18d55124c88912b Forgot to point ref on changelog update workflow
+226b0f5243ef77655e45f1409ce3e7a2c58cdf13 Forum search: Better styling on the search bar (#668)
+8e03a6473fc55ce88be611be16ef580ce635ec31 It's version bumping time again (#685)
