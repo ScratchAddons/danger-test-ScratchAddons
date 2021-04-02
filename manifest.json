@@ -8,6 +8,18 @@
   "background": {
     "page": "background/background.html"
   },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   "browser_action": {
     "default_icon": "images/icon.png",
     "default_popup": "webpages/popup/index.html",
@@ -64,3 +76,20 @@
     }
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
