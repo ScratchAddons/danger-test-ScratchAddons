@@ -1,6 +1,6 @@
 name: Label PR using Labeler
 on:
-  pull_request:
+  pull_request_target:
 
 jobs:
   label:
